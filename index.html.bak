@@ -296,7 +296,7 @@
 			<h2><a href="#">2012年<i></i></a></h2>
 			<div class="list">
 			  <ul>
-			   <li >
+			   <li class="cls">
 				  <p class="date">10月~次年2月</p>
 				  <p class="intro">维护学习</p>
 				  <p class="version">&nbsp;</p>

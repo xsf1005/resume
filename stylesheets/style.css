@@ -65,7 +65,7 @@ a:hover {
 }
 .content {
 	position:relative;
-	width:1000px;
+	width:100%;
 	margin:0 auto;
 }
 
@@ -87,14 +87,14 @@ hr {
 	border-bottom: 1px dashed #474954;
 }
 .top{
-	margin-top: 60px;
+	margin-top: 5%;
 }
 .top img{
 	width: 100%;
 	margin-top: -10px;
 }
 .content {
-	padding: 50px 0;
+	padding: 15% 0;
 	min-height: 720px;
 	background: #3a3c48 url("../images/log/content-bg.png");
 	width: 100%;
@@ -107,8 +107,8 @@ hr {
 }
 .content .light {
 	position: absolute;
-	left: 55px;
-	top: -50px;
+	left: 5%;
+	top: -5%;
 	width: 10%;
 	height: 15%;
 	background: url("../images/log/light-top.png") no-repeat top center;
@@ -138,11 +138,11 @@ hr {
 .content .main .title {
 	position: absolute;
 	line-height: 40px;
-	padding-left: 8%;
-	left: 21.2%;
+	padding-left: 17%;
+	left: 30%;
 	top: 0;
 	color: #58a6fb;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	background: url("../images/log/clock.png") no-repeat left top;
 }
 .content .main .year {
@@ -150,10 +150,10 @@ hr {
 	z-index: 100;
 }
 .content .main .year h2 {
-	height: 8%;
-	width: 18%;
-	padding-right: 1%;
-	font-size: 2em;
+	height: 5%;
+	width: 10%;
+	padding-right: 0.5%;
+	font-size: 1.2em;
 	line-height: 40px;
 	text-align: right;
 }

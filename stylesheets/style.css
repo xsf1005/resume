@@ -1,6 +1,6 @@
 body {
 	margin:0;
-	font:0.875em Î¢ÈíÑÅºÚ,ËÎÌå,Arial,sans-serif;
+	font:12px Î¢ÈíÑÅºÚ,ËÎÌå,Arial,sans-serif;
 }
 html,body {
 	-webkit-text-size-adjust:none;
@@ -65,7 +65,7 @@ a:hover {
 }
 .content {
 	position:relative;
-	width:100%;
+	width:1000px;
 	margin:0 auto;
 }
 
@@ -87,14 +87,14 @@ hr {
 	border-bottom: 1px dashed #474954;
 }
 .top{
-	margin-top: 5%;
+	margin-top: 60px;
 }
 .top img{
 	width: 100%;
 	margin-top: -10px;
 }
 .content {
-	padding: 15% 0;
+	padding: 50px 0;
 	min-height: 720px;
 	background: #3a3c48 url("../images/log/content-bg.png");
 	width: 100%;
@@ -102,15 +102,15 @@ hr {
 .content .wrapper {
 	position: relative;
 	background: url("../images/log/release-bg.png") no-repeat right top;
-	width: 80%;
+	width: 960px;
 	margin: 0 auto;
 }
 .content .light {
 	position: absolute;
-	left: 5%;
-	top: -5%;
-	width: 10%;
-	height: 15%;
+	left: 55px;
+	top: -50px;
+	width: 152px;
+	height: 191px;
 	background: url("../images/log/light-top.png") no-repeat top center;
 }
 .content .light i {
@@ -124,13 +124,13 @@ hr {
 	position: absolute;
 	left: 0;
 	top: 15px;
-	width: 10%;
+	width: 70px;
 }
 .content .line-right {
 	position: absolute;
 	right: 0;
 	top: 15px;
-	width: 30%;
+	width: 460px;
 }
 .content .main {
 	background: url("../images/log/line-bg.png") repeat-y 249px 0;
@@ -138,11 +138,11 @@ hr {
 .content .main .title {
 	position: absolute;
 	line-height: 40px;
-	padding-left: 17%;
-	left: 30%;
+	padding-left: 67px;
+	left: 230px;
 	top: 0;
 	color: #58a6fb;
-	font-size: 1.2em;
+	font-size: 24px;
 	background: url("../images/log/clock.png") no-repeat left top;
 }
 .content .main .year {
@@ -150,10 +150,10 @@ hr {
 	z-index: 100;
 }
 .content .main .year h2 {
-	height: 5%;
-	width: 10%;
-	padding-right: 0.5%;
-	font-size: 1.2em;
+	height: 40px;
+	width: 170px;
+	padding-right: 30px;
+	font-size: 24px;
 	line-height: 40px;
 	text-align: right;
 }
@@ -165,7 +165,7 @@ hr {
 	position:relative;
 	height:0;
 	width:0;
-	left:49%;
+	left:190px;
 	top:-20px;
 	border-width:6px;
 	border-style:solid;
@@ -219,24 +219,24 @@ hr {
 	float:left;
 	display:block;
 	clear:left;
-	width:20%;
+	width:200px;
 	line-height:24px;
 	text-align:right
 }
 .content .main .year .list ul li .date{
-	font-size:1.5em;
+	font-size:18px;
 	line-height:32px;
 	color:#bec1d5
 }
 .content .main .year .list ul li .intro, .content .main .year .list ul li .more {
 	float: left;
 	display: block;
-	width: 36%;
-	margin-left: 8%;
+	width: 400px;
+	margin-left: 100px;
 	line-height: 24px;
 }
 .content .main .year .list ul li .intro {
-	font-size: 1.6em;
+	font-size: 18px;
 	line-height: 32px;
 	color: #63d029;
 }

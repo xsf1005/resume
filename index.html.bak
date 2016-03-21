@@ -3,9 +3,13 @@
 
   <head>
     <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="Resume : ">
-
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="Cache-Control" content="no-siteapp" />
+	<meta http-equiv="Cache-Control" content="no-transform " /> 
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+\
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/style.css">
     <title>Resume</title>
@@ -21,7 +25,7 @@
           <h2 id="project_tagline"></h2>
 
             <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/xsf1005/resume/doc/resume.zip">简历下载</a>
+              <a class="zip_download_link" href="http://xsf1005.github.io/resume/doc/resume.zip">简历下载</a>
             </section>
         </header>
     </div>

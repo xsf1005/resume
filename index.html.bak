@@ -8,8 +8,7 @@
 	<meta http-equiv="Cache-Control" content="no-siteapp" />
 	<meta http-equiv="Cache-Control" content="no-transform " /> 
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-\
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=0.5,user-scalable=yes">
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 	<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/style.css">
     <title>Resume</title>
@@ -292,22 +291,22 @@
             </li>
           </ul>
         </div>
-      </div>
-	   <div class="year">
-        <h2><a href="#">2012年<i></i></a></h2>
-        <div class="list">
-          <ul>
-           <li class="cls">
-              <p class="date">10月~次年2月</p>
-              <p class="intro">维护学习</p>
-			  <p class="version">&nbsp;</p>
-			  <div class="more">
-				<p> 维护之前的项目，学习了解下一个项目的一些技术。了解已上上线系统的业务知识，了解整个公司已上线的所有项目的流程</p>
-			  </div>			 
-            </li>      		
-          </ul>
-        </div>
-      </div>
+      </div> 
+		<div class="year">
+			<h2><a href="#">2012年<i></i></a></h2>
+			<div class="list">
+			  <ul>
+			   <li >
+				  <p class="date">10月~次年2月</p>
+				  <p class="intro">维护学习</p>
+				  <p class="version">&nbsp;</p>
+				  <div class="more">
+					<p> 佛山顺德客运站汽车维修系统</p>
+				  </div>			 
+				</li> 
+			  </ul>
+			</div>
+		  </div>
     </div>
   </div>
 </div>
